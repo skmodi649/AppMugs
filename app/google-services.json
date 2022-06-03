@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280258243870",
+    "project_id": "appmugs-c689b",
+    "storage_bucket": "appmugs-c689b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280258243870:android:b27735410cd089a1d06d0f",
+        "android_client_info": {
+          "package_name": "com.example.appmugs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280258243870-fvg3sbup40a92u0a95hm7k8kjn41s3iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxicoTJFRE4BqYhf0L1C7p929llSuWcGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280258243870-fvg3sbup40a92u0a95hm7k8kjn41s3iv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
