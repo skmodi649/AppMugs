@@ -5,11 +5,10 @@
       <map>
         <entry key="..\:/Users/Surmo/AndroidStudioProjects/AppMugs/app/src/main/res/layout/activity_bottom_tabs.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Surmo/AndroidStudioProjects/AppMugs/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Surmo/AndroidStudioProjects/AppMugs/app/src/main/res/layout/fragment_pie__chart.xml" value="0.16621376811594202" />
+        <entry key="..\:/Users/Surmo/AndroidStudioProjects/AppMugs/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
       </map>
     </option>
-  </component>
-  <component name="ProjectPlainTextFileTypeManager">
-    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/85568-user-login.json" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
